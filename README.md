@@ -20,6 +20,10 @@ To run this project locally, you'll need one of the following installed on your 
 * Heroku Toolbelt
 * Foreman
 
+##### Running with Heroku Toolbelt
+
+To run with Heroku Toolbelt, simply run ```heroku local``` in the project root.
+
 ### Configuration
 
 This project requires a couple of environment variables in order to work in development, testing, and production environments.
